@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.724e68bb.css",
+    "main.js": "/static/js/main.8cbd8565.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/revathiresume.pdf": "/static/media/revathiresume.9d8adfd7c407086a8a3f.pdf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/R1.png": "/static/media/R1.0cbbd31b35e1bca6a10d.png",
+    "static/media/revathi.png": "/static/media/revathi.cbaa9f94b374370ee1fa.png",
+    "static/media/P6.JPG": "/static/media/P6.1611ad2a101344cf3be1.JPG",
+    "static/media/P5.JPG": "/static/media/P5.7213e89b947eccec9f38.JPG",
+    "static/media/P2.JPG": "/static/media/P2.dde130c10c7558a6cb44.JPG",
+    "static/media/P1.JPG": "/static/media/P1.b53674ca9e6eed230e4e.JPG",
+    "static/media/P4.JPG": "/static/media/P4.9888b5c9b9144376ee96.JPG",
+    "static/media/P3.JPG": "/static/media/P3.8e1bfae6a6dd5615343e.JPG",
+    "index.html": "/index.html",
+    "main.724e68bb.css.map": "/static/css/main.724e68bb.css.map",
+    "main.8cbd8565.js.map": "/static/js/main.8cbd8565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724e68bb.css",
+    "static/js/main.8cbd8565.js"
+  ]
+}
